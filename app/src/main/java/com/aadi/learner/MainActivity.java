@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // Initialize views
+        // Initialize views..
         webView = findViewById(R.id.webView);
         searchBar = findViewById(R.id.searchBar);
         drawerLayout = findViewById(R.id.drawerLayout);
